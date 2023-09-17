@@ -1,0 +1,82 @@
+[
+  {
+    "name": "WhatsApp Web Application",
+    "desc": "Full Stack Web Application based on MERN Stack",
+    "category": "mern",
+    "image": "whatsapp",
+    "links": {
+      "view":"https://majestic-baklava-67a9e8.netlify.app/",
+      "code": "https://github.com/Suman8271/WhatsApp-Clone"
+    }
+  },
+  {
+    "name": "CRUD Application",
+    "desc": "Full Stack Web Application based on MERN Stack which can perform Four Basic Tasks Create, Read, Update, Delete",
+    "category": "mern",
+    "image": "crud",
+    "links": {
+      "view": "https://suman8271.github.io/Crud-MongoDB/",
+      "code": "https://github.com/Suman8271/Crud-MongoDB"
+    }
+  },
+  {
+    "name": "Google Keep Clone Application",
+    "desc": "Full Stack Web Application based on MERN Stack which can store data",
+    "category": "mern",
+    "image": "google",
+    "links": {
+      "view": "https://suman8271.github.io/google-keep-clone/",
+      "code": "https://github.com/Suman8271/google-keep-clone"
+    }
+  },
+  {
+    "name": "Codepen Clone",
+    "desc": "Full Stack Web Application based on MERN Stack which works like an editor of HTML, CSS and JS",
+    "category": "mern",
+    "image": "codepen",
+    "links": {
+      "view": "https://illustrious-blancmange-d85d46.netlify.app/",
+      "code": "https://github.com/Suman8271/Codepen-Clone"
+    }
+  },
+  {
+    "name": "IMDB Clone",
+    "desc": "Full Stack Web Application based on MERN Stack which shows the upcoming movies, toggle between categories of movies and ratings",
+    "category": "mern",
+    "image": "imdb",
+    "links": {
+      "view": "https://suman8271.github.io/imdb/",
+      "code": "https://github.com/Suman8271/imdb"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "Native Web app built using HTML, CSS and JS. Provides weather forecast.",
+    "category": "basicweb",
+    "image": "weather",
+    "links": {
+      "view": "https://suman8271.github.io/weather-app/",
+      "code": "https://github.com/Suman8271/weather-app"
+    }
+  },
+  {
+    "name": "Semantics Checker",
+    "desc": "Basic Web App used for checking Gramatical Errors just like Grammarly",
+    "category": "basicweb",
+    "image": "semantic",
+    "links": {
+      "view": "https://bucolic-cannoli-a63525.netlify.app/",
+      "code": "https://github.com/Suman8271/Semantics-Checker"
+    }
+  },
+  {
+    "name": "Snake Game",
+    "desc": "Basic Web App which gives entertainment of real snake game",
+    "category": "basicweb",
+    "image": "snake",
+    "links": {
+      "view": "https://suman8271.github.io/Snake-Game/",
+      "code": "https://github.com/Suman8271/Snake-Game"
+    }
+  }
+]
