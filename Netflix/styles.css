@@ -1,0 +1,86 @@
+/* Reset some default styles */
+/*https://luxury-llama-427555.netlify.app*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Apply some basic styling */
+
+/*.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #111;
+    color: #fff;
+}
+
+header {
+    background-color: #111;
+    padding: 20px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.hero {
+    background-image: url('https://miro.medium.com/v2/resize:fit:1400/1*5lyavS59mazOFnb55Z6znQ.png');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #e50914;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+.featured, .popular {
+    padding: 40px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Add more specific styles as needed */
